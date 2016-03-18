@@ -3,6 +3,6 @@ document.getElementById("foot01").innerHTML =
 document.getElementById("nav01").innerHTML =
 "<ul id='menu'>" +
 "<li><a href='index.html'>Home</a></li>" +
-"<li><a href='algorithms.html'>Algorithms</a></li>" +
+"<li><a href='methods.html'>Methods</a></li>" +
 "<li><a href='data.html'>Data</a></li>" +
 "</ul>";
