@@ -5,4 +5,5 @@ document.getElementById("nav01").innerHTML =
 "<li><a href='index.html'>Home</a></li>" +
 "<li><a href='methods.html'>Methods</a></li>" +
 "<li><a href='data.html'>Data</a></li>" +
+"<li><a href='references.html'>References</a></li>" +
 "</ul>";
